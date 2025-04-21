@@ -26,9 +26,8 @@ A sleek and informative web app to explore real-time cryptocurrency data includi
 
 - **React**
 - **React Router**
-- **Tailwind CSS**
-- **Chart.js / Recharts / ApexCharts** (choose the one you're using)
-- **CoinGecko API** or **CoinMarketCap API** (as your real-time data source)
+- **Chart.js 
+- **CoinGecko API** 
 
 ---
 
